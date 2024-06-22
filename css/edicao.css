@@ -1,0 +1,110 @@
+.main-edit {
+    display: flex;
+}
+
+.center-content {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+.card-edit {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 20px;
+}
+
+h3 {
+    padding-bottom: 30px;
+    color: #002b4b;
+    font-weight: 800;
+    margin: 0;
+    font-size: 40px;
+    text-align: center;
+}
+
+.textfield {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    margin: 10px 0px;
+    color: #444746;
+}
+
+.textfield>input,
+.textfield>.containerImagens>input,
+.textfield>.containerImagens>.imagem-input>input,
+.textfield>textarea,
+.textfield>select {
+    width: 100%;
+    border: none;
+    border-radius: 10px;
+    padding: 15px;
+    background-color: #00000016;
+    color: #444746;
+    font-size: 12pt;
+    box-sizing: border-box;
+}
+
+.containerImagens,
+.containerImagens>.imagem-input {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+
+.textfield>label {
+    color: #444746;
+    margin-bottom: 10px;
+}
+
+.textfield>input::placeholder {
+    color: #f0ffff94;
+}
+
+.textfield-check {
+    width: 100%;
+    display: flex;
+    flex-direction: line;
+    align-items: flex-start;
+    margin: 10px 0px;
+}
+
+.adicionar {
+    width: fit-content;
+    display: block;
+    color: #444746;
+    background-color: var(--vermelho);
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    margin-top: 20px;
+    font-family: sans-serif;
+    background-color: #aeb2b2;
+}
+
+.cadastrar {
+    width: 100%;
+    padding: 16px 0px;
+    border: none;
+    border-radius: 8px;
+    outline: none;
+    font-size: 18px;
+    color: #E8F0FE;
+    background-color: #002b4b;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px 5px #0000000f;
+    margin: 50px auto 0 auto;
+}
+
+.back {
+    color: var(--vermelho);
+    text-align: center;
+    margin-top: 5%;
+}

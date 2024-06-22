@@ -1,0 +1,143 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background: white;
+    height: 100vh;
+}
+
+:root{
+    --azul: #002b4b;
+    --laranja: #fa6744;
+    --vermelho: #ff3447;
+    --roxo: #7d1466;
+    --violeta: #281870;
+}
+
+.sidebar-header{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.logo-img{
+    width: 50px;
+    background-color: #002b4b;
+    border-radius: 50%;
+    padding: 5px;
+    display: none;
+}
+
+.logo-txt{
+    color: #002b4b;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+.main-page{
+    display: flex;
+    padding: 15px 10px;
+}
+
+
+.sidebar{
+    padding: 25px 18px 18px 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px 5px #0000001b;
+    
+}
+
+.sidebar ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    gap: 5px;
+}
+
+.add{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    width: fit-content;
+    color: #444746;
+    text-decoration: none;
+    background-color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+    box-shadow: 0px 0px 15px 5px #0000001b; 
+}
+
+.plus{
+    font-size: 30px;
+}
+
+.sidebar li a, .login{
+    width: 100%;
+    padding: 10px 10px;
+    border-radius: 10px;
+    color: #444746;
+    gap: 10px;
+    display: flex;
+    align-items: center;
+}
+.login{
+    background-color: #002b4b;
+    color: white;
+    
+}
+
+.material-symbols-outlined{
+    font-weight: bolder;
+}
+
+hr{
+    color: #444746;
+}
+
+.inativo:hover{
+    background-color: #00000011;
+    color: #444746;
+}
+
+
+.ativo {
+    background-color: #002b4b;
+    color: white !important;
+}
+
+article{
+    padding: 40px;
+    background-color: white;
+    width: 78vw;
+    height: 95vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+    margin: auto ;
+    border-radius: 15px;
+    box-shadow: 0px 0px 15px 5px #0000001b;   
+}
+
+.background-image{
+    background-image: url('../img/fundo8.png');
+    background-size: cover;
+}
+
+.titulo-animacao{
+    width: 300px;
+    margin: auto;
+}
+
+.sidebar-img{
+    width: 80px;
+    margin: auto;
+}
