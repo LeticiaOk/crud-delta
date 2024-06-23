@@ -14,6 +14,14 @@
 * **EXCLUIR** administrador / categoria / produto.
 * Sistema de **LOGIN** do administrador.
 
+## `Execução:`
+> Antes de tudo certfique-se de ter o XAMPP instalado e configurado corretamente em sua máquina.
+1. Para conectar o banco de dados será necessário baixar o arquivo SQL disponibilizado dentro da pasta **'dumps'**
+2. Em seguida acessar o seguinte endereço: [phpMyAdmin](http://localhost/phpmyadmin/)
+3. Dentro do phpMyAdmin clicar na opção de 'Importar' e selecionar o arquivo SQL disponibilizado.
+4. Navegar até o arquivo conexao.php e preencher as informações do banco de dados
+
+> Essa é uma das formas de se conectar ao banco de dados pois existem outros tipos de se hospedar um banco de dados.
 ## `Páginas:`
 
 ### Página de Login:
