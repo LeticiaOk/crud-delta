@@ -19,7 +19,7 @@
 1. Para conectar o banco de dados será necessário baixar o arquivo SQL disponibilizado dentro da pasta **'dumps'**
 2. Em seguida acessar o seguinte endereço: [phpMyAdmin](http://localhost/phpmyadmin/)
 3. Dentro do phpMyAdmin clicar na opção de 'Importar' e selecionar o arquivo SQL disponibilizado.
-4. Navegar até o arquivo conexao.php e preencher as informações do banco de dados
+4. Navegar até o arquivo conexao.php e preencher as informações do banco de dados.
 
 > Lembrando que essa é só uma das formas, pois existem outras técnicas de se hospedar um banco de dados.
 
@@ -52,6 +52,6 @@
 ![editar](img/editar.png)
 
 ### Página de Excluir:
-* Aqui aparecerá uma mensagem caso o item tenha sido excluido com sucesso ou não.
+* Aqui aparecerá uma mensagem caso o item tenha sido excluído com sucesso ou não.
 
 ![excluir](img/excluir.png)
