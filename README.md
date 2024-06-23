@@ -21,7 +21,8 @@
 3. Dentro do phpMyAdmin clicar na opção de 'Importar' e selecionar o arquivo SQL disponibilizado.
 4. Navegar até o arquivo conexao.php e preencher as informações do banco de dados
 
-> Essa é uma das formas de se conectar ao banco de dados pois existem outros tipos de se hospedar um banco de dados.
+> Lembrando que essa é só uma das formas, pois existem outras técnicas de se hospedar um banco de dados.
+
 ## `Páginas:`
 
 ### Página de Login:
