@@ -1,11 +1,13 @@
 # CRUD Delta
-> CRUD desenvolvido como parte da disciplina de Projeto Integrador do curso de Sistemas para Internet da minha faculdade.
+> CRUD desenvolvido como parte da disciplina de Projeto Integrador do curso sueprior de Sistemas para Internet.
 
 ## `Skills utilizadas:`
 * PHP, SQL, JavaScript, HTML e CSS
 
-## `Funcionalidades:`
-* Servir como parte administrativa de uma empresa de jogos (DELTA).
+## `Descrição:`
+O objetivo desse segundo semestre era fazer um CRUD para a parte administrativa de uma empresa de jogos chamada 'Delta', onde os administradores poderão se cadastrar no sistema e gerenciar as informações dos produtos e suas respectivas categorias,.
+
+No próximo semestre esse esse sistema estará ligado a um site que iremos desenvolver, onde de fato o cliente irá navegar.
 
 ### Principais funcionalidades:
 
