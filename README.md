@@ -5,7 +5,7 @@
 * PHP, SQL, JavaScript, HTML e CSS
 
 ## `Descrição:`
-O objetivo desse segundo semestre era fazer um CRUD para a parte administrativa de uma empresa de jogos chamada 'Delta', onde os administradores poderão se cadastrar no sistema e gerenciar as informações dos produtos e suas respectivas categorias,.
+O objetivo desse segundo semestre era fazer um CRUD para a parte administrativa de uma empresa de jogos chamada 'Delta', onde os administradores poderão se cadastrar no sistema e gerenciar as informações dos produtos e suas respectivas categorias.
 
 No próximo semestre esse esse sistema estará ligado a um site que iremos desenvolver, onde de fato o cliente irá navegar.
 
