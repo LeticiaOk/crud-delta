@@ -12,7 +12,7 @@ No próximo semestre esse esse sistema estará ligado a um site que iremos desen
 ### Principais funcionalidades:
 
 * **CADASTRAR** administrador / categoria / produto.
-* **EDITAR** informações do(a) administrador / categoria / produto.
+* **EDITAR** informações do administrador / categoria / produto.
 * **EXCLUIR** administrador / categoria / produto.
 * Sistema de **LOGIN** do administrador.
 
