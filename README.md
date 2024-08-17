@@ -18,9 +18,10 @@ No próximo semestre esse esse sistema estará ligado a um site que iremos desen
 
 ## `Execução:`
 > Antes de tudo certfique-se de ter o XAMPP instalado e configurado corretamente em sua máquina.
-1. Para conectar o banco de dados será necessário baixar o arquivo SQL disponibilizado dentro da pasta **'dumps'**
-2. Em seguida acessar o seguinte endereço: [phpMyAdmin](http://localhost/phpmyadmin/)
-3. Dentro do phpMyAdmin clicar na opção de 'Importar' e selecionar o arquivo SQL disponibilizado.
+1. Você pode usar o git para clonar o respositório no seu computador. Aqui está um tutorial: [GitHub Docs](https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository)
+2. Para conectar o banco de dados será necessário baixar o arquivo SQL disponibilizado dentro da pasta **'dumps'**
+3. Em seguida acessar o seguinte endereço: [phpMyAdmin](http://localhost/phpmyadmin/)
+4. Dentro do phpMyAdmin clicar na opção de 'Importar' e selecionar o arquivo SQL disponibilizado.
 4. Navegar até o arquivo conexao.php e preencher as informações do banco de dados.
 
 > Lembrando que essa é só uma das formas, pois existem outras técnicas de se hospedar um banco de dados.
